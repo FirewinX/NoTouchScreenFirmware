@@ -24,7 +24,7 @@
 #endif
 
 // Enable SPI data received indicator
-#define SPI_DATA_RECEIVED_INDICATOR
+//#define SPI_DATA_RECEIVED_INDICATOR
 
 // Rotary knob long press duration for SPI restart
 #define SPI_RESTART_KNOB_PRESS_DURATION 3
